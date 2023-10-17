@@ -1,0 +1,9 @@
+python
+jupyter
+numpy=1.19.2
+scipy
+matplotlib
+scikit-learn
+pandas
+tensorflow
+keras
